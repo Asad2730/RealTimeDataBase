@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "527698440195",
+    "firebase_url": "https://mydb-c2517-default-rtdb.firebaseio.com",
+    "project_id": "mydb-c2517",
+    "storage_bucket": "mydb-c2517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527698440195:android:c98a97fbc3257e4e8b5e36",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshkjxy-3LOipGcQN4c3IDjl4fNk7B2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527698440195:android:121433d6e7ca53fd8b5e36",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshkjxy-3LOipGcQN4c3IDjl4fNk7B2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527698440195:android:53af3c7014229bc18b5e36",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshkjxy-3LOipGcQN4c3IDjl4fNk7B2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527698440195-a51cjl13e6ca1ltr96iqsj263ptj3sap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealTimeDataBase</string>
+    <string-array name="items">
+        <item>Update</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>
+
